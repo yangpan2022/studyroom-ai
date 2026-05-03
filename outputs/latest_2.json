@@ -1,0 +1,25 @@
+{
+  "roomId": 2,
+  "videoUrl": "/media/videos/2_people_at_a_table_for_4.mp4",
+  "frameIndex": 47170,
+  "frameWidth": 3840,
+  "frameHeight": 2160,
+  "updatedAt": "2026-04-23T10:44:17",
+  "detections": [
+    {
+      "type": "person",
+      "x1": 0.4654,
+      "y1": 0.5449,
+      "x2": 0.6451,
+      "y2": 0.844,
+      "confidence": 0.5169
+    }
+  ],
+  "seatStatus": [
+    {
+      "seatId": 4,
+      "occupied": true,
+      "phone_detected": false
+    }
+  ]
+}

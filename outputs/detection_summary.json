@@ -1,0 +1,39 @@
+{
+  "video": "4_people_at_studyroom.mp4",
+  "total_frames": 151,
+  "frames_with_detections": 151,
+  "occupied_frames": 151,
+  "phone_frames": 0,
+  "seat_summary": {
+    "1": 151,
+    "2": 151,
+    "3": 151,
+    "4": 145
+  },
+  "unhit_seats": [],
+  "detection_type_count": {
+    "person": 609
+  },
+  "seat_samples": {
+    "1": [
+      0,
+      5,
+      10
+    ],
+    "2": [
+      0,
+      5,
+      10
+    ],
+    "3": [
+      0,
+      5,
+      10
+    ],
+    "4": [
+      0,
+      5,
+      10
+    ]
+  }
+}

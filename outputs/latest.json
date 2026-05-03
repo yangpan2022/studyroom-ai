@@ -1,0 +1,62 @@
+{
+  "roomId": 1,
+  "videoUrl": "/media/videos/4_people_at_studyroom.mp4",
+  "frameIndex": 385,
+  "frameWidth": 1920,
+  "frameHeight": 1080,
+  "updatedAt": "2026-04-21T16:10:19",
+  "detections": [
+    {
+      "type": "person",
+      "x1": 0.1953,
+      "y1": 0.5667,
+      "x2": 0.4255,
+      "y2": 0.9907,
+      "confidence": 0.8163
+    },
+    {
+      "type": "person",
+      "x1": 0.7083,
+      "y1": 0.5287,
+      "x2": 0.8365,
+      "y2": 0.7991,
+      "confidence": 0.813
+    },
+    {
+      "type": "person",
+      "x1": 0.7677,
+      "y1": 0.6194,
+      "x2": 0.9568,
+      "y2": 0.9583,
+      "confidence": 0.7213
+    },
+    {
+      "type": "person",
+      "x1": 0.3073,
+      "y1": 0.5454,
+      "x2": 0.476,
+      "y2": 0.8037,
+      "confidence": 0.6972
+    },
+    {
+      "type": "person",
+      "x1": 0.963,
+      "y1": 0.612,
+      "x2": 1.0,
+      "y2": 0.9852,
+      "confidence": 0.4963
+    }
+  ],
+  "seatStatus": [
+    {
+      "seatId": 1,
+      "occupied": true,
+      "phone_detected": false
+    },
+    {
+      "seatId": 2,
+      "occupied": true,
+      "phone_detected": false
+    }
+  ]
+}

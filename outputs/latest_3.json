@@ -1,0 +1,33 @@
+{
+  "roomId": 3,
+  "videoUrl": "/media/videos/women-playing-phone.mp4",
+  "frameIndex": 286,
+  "frameWidth": 1080,
+  "frameHeight": 1920,
+  "updatedAt": "2026-04-26T21:51:19",
+  "detections": [
+    {
+      "type": "person",
+      "x1": 0.1491,
+      "y1": 0.1526,
+      "x2": 0.9963,
+      "y2": 0.899,
+      "confidence": 0.913
+    },
+    {
+      "type": "cell phone",
+      "x1": 0.3565,
+      "y1": 0.8578,
+      "x2": 0.5222,
+      "y2": 0.9385,
+      "confidence": 0.7911
+    }
+  ],
+  "seatStatus": [
+    {
+      "seatId": 6,
+      "occupied": true,
+      "phone_detected": true
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# ── Core ──────────────────────────────────────────────────────────────────────
+ultralytics>=8.0.0          # YOLO v8 / v9 training + inference
+opencv-python>=4.8.0        # Video capture, frame manipulation, annotation
+pyyaml>=6.0                 # YAML dataset config parsing
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+numpy>=1.24.0               # Array operations (pulled in by ultralytics too)
+Pillow>=10.0.0              # Image I/O helper (used internally by ultralytics)
